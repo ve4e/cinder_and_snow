@@ -1,0 +1,125 @@
+<RCC>
+    <qresource prefix="/QML">
+        <file>UnitsPanel.qml</file>
+        <file>UnitInfo.qml</file>
+    </qresource>
+    <qresource prefix="/character/swordman/Walk">
+        <file alias="walk_100">res/characters/swordman/Walk/walk_100.png</file>
+        <file alias="walk_101">res/characters/swordman/Walk/walk_101.png</file>
+        <file alias="walk_102">res/characters/swordman/Walk/walk_102.png</file>
+        <file alias="walk_103">res/characters/swordman/Walk/walk_103.png</file>
+        <file alias="walk_104">res/characters/swordman/Walk/walk_104.png</file>
+        <file alias="walk_105">res/characters/swordman/Walk/walk_105.png</file>
+        <file alias="walk_106">res/characters/swordman/Walk/walk_106.png</file>
+        <file alias="walk_107">res/characters/swordman/Walk/walk_107.png</file>
+        <file alias="walk_108">res/characters/swordman/Walk/walk_108.png</file>
+        <file alias="walk_109">res/characters/swordman/Walk/walk_109.png</file>
+        <file alias="walk_200">res/characters/swordman/Walk/walk_200.png</file>
+        <file alias="walk_201">res/characters/swordman/Walk/walk_201.png</file>
+        <file alias="walk_202">res/characters/swordman/Walk/walk_202.png</file>
+        <file alias="walk_203">res/characters/swordman/Walk/walk_203.png</file>
+        <file alias="walk_204">res/characters/swordman/Walk/walk_204.png</file>
+        <file alias="walk_205">res/characters/swordman/Walk/walk_205.png</file>
+        <file alias="walk_206">res/characters/swordman/Walk/walk_206.png</file>
+        <file alias="walk_207">res/characters/swordman/Walk/walk_207.png</file>
+        <file alias="walk_208">res/characters/swordman/Walk/walk_208.png</file>
+        <file alias="walk_209">res/characters/swordman/Walk/walk_209.png</file>
+        <file alias="walk_302">res/characters/swordman/Walk/walk_302.png</file>
+        <file alias="walk_400">res/characters/swordman/Walk/walk_400.png</file>
+        <file alias="walk_500">res/characters/swordman/Walk/walk_500.png</file>
+        <file alias="walk_501">res/characters/swordman/Walk/walk_501.png</file>
+        <file alias="walk_502">res/characters/swordman/Walk/walk_502.png</file>
+        <file alias="walk_503">res/characters/swordman/Walk/walk_503.png</file>
+        <file alias="walk_504">res/characters/swordman/Walk/walk_504.png</file>
+        <file alias="walk_505">res/characters/swordman/Walk/walk_505.png</file>
+        <file alias="walk_506">res/characters/swordman/Walk/walk_506.png</file>
+        <file alias="walk_507">res/characters/swordman/Walk/walk_507.png</file>
+        <file alias="walk_508">res/characters/swordman/Walk/walk_508.png</file>
+        <file alias="walk_110">res/characters/swordman/Walk/walk_110.png</file>
+        <file alias="walk_111">res/characters/swordman/Walk/walk_111.png</file>
+        <file alias="walk_112">res/characters/swordman/Walk/walk_112.png</file>
+        <file alias="walk_113">res/characters/swordman/Walk/walk_113.png</file>
+        <file alias="walk_114">res/characters/swordman/Walk/walk_114.png</file>
+        <file alias="walk_210">res/characters/swordman/Walk/walk_210.png</file>
+        <file alias="walk_211">res/characters/swordman/Walk/walk_211.png</file>
+        <file alias="walk_212">res/characters/swordman/Walk/walk_212.png</file>
+        <file alias="walk_213">res/characters/swordman/Walk/walk_213.png</file>
+        <file alias="walk_214">res/characters/swordman/Walk/walk_214.png</file>
+        <file alias="walk_300">res/characters/swordman/Walk/walk_300.png</file>
+        <file alias="walk_301">res/characters/swordman/Walk/walk_301.png</file>
+        <file alias="walk_303">res/characters/swordman/Walk/walk_303.png</file>
+        <file alias="walk_304">res/characters/swordman/Walk/walk_304.png</file>
+        <file alias="walk_305">res/characters/swordman/Walk/walk_305.png</file>
+        <file alias="walk_306">res/characters/swordman/Walk/walk_306.png</file>
+        <file alias="walk_307">res/characters/swordman/Walk/walk_307.png</file>
+        <file alias="walk_308">res/characters/swordman/Walk/walk_308.png</file>
+        <file alias="walk_309">res/characters/swordman/Walk/walk_309.png</file>
+        <file alias="walk_310">res/characters/swordman/Walk/walk_310.png</file>
+        <file alias="walk_311">res/characters/swordman/Walk/walk_311.png</file>
+        <file alias="walk_312">res/characters/swordman/Walk/walk_312.png</file>
+        <file alias="walk_313">res/characters/swordman/Walk/walk_313.png</file>
+        <file alias="walk_314">res/characters/swordman/Walk/walk_314.png</file>
+        <file alias="walk_401">res/characters/swordman/Walk/walk_401.png</file>
+        <file alias="walk_402">res/characters/swordman/Walk/walk_402.png</file>
+        <file alias="walk_403">res/characters/swordman/Walk/walk_403.png</file>
+        <file alias="walk_404">res/characters/swordman/Walk/walk_404.png</file>
+        <file alias="walk_405">res/characters/swordman/Walk/walk_405.png</file>
+        <file alias="walk_406">res/characters/swordman/Walk/walk_406.png</file>
+        <file alias="walk_407">res/characters/swordman/Walk/walk_407.png</file>
+        <file alias="walk_408">res/characters/swordman/Walk/walk_408.png</file>
+        <file alias="walk_409">res/characters/swordman/Walk/walk_409.png</file>
+        <file alias="walk_410">res/characters/swordman/Walk/walk_410.png</file>
+        <file alias="walk_411">res/characters/swordman/Walk/walk_411.png</file>
+        <file alias="walk_412">res/characters/swordman/Walk/walk_412.png</file>
+        <file alias="walk_413">res/characters/swordman/Walk/walk_413.png</file>
+        <file alias="walk_414">res/characters/swordman/Walk/walk_414.png</file>
+        <file alias="walk_509">res/characters/swordman/Walk/walk_509.png</file>
+        <file alias="walk_510">res/characters/swordman/Walk/walk_510.png</file>
+        <file alias="walk_511">res/characters/swordman/Walk/walk_511.png</file>
+        <file alias="walk_512">res/characters/swordman/Walk/walk_512.png</file>
+        <file alias="walk_513">res/characters/swordman/Walk/walk_513.png</file>
+        <file alias="walk_514">res/characters/swordman/Walk/walk_514.png</file>
+        <file alias="walk_000">res/characters/swordman/Walk/walk_000.png</file>
+        <file alias="walk_001">res/characters/swordman/Walk/walk_001.png</file>
+        <file alias="walk_002">res/characters/swordman/Walk/walk_002.png</file>
+        <file alias="walk_003">res/characters/swordman/Walk/walk_003.png</file>
+        <file alias="walk_004">res/characters/swordman/Walk/walk_004.png</file>
+        <file alias="walk_005">res/characters/swordman/Walk/walk_005.png</file>
+        <file alias="walk_006">res/characters/swordman/Walk/walk_006.png</file>
+        <file alias="walk_007">res/characters/swordman/Walk/walk_007.png</file>
+        <file alias="walk_008">res/characters/swordman/Walk/walk_008.png</file>
+        <file alias="walk_009">res/characters/swordman/Walk/walk_009.png</file>
+        <file alias="walk_010">res/characters/swordman/Walk/walk_010.png</file>
+        <file alias="walk_011">res/characters/swordman/Walk/walk_011.png</file>
+        <file alias="walk_012">res/characters/swordman/Walk/walk_012.png</file>
+        <file alias="walk_013">res/characters/swordman/Walk/walk_013.png</file>
+        <file alias="walk_014">res/characters/swordman/Walk/walk_014.png</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/main">
+        <file alias="main.png">res/icons/main/main.png</file>
+    </qresource>
+    <qresource prefix="/res">
+        <file>res/crusader_knight.png</file>
+    </qresource>
+    <qresource prefix="/units/img">
+        <file alias="unit_archer">res/units/images/archer.png</file>
+        <file alias="unit_berserk">res/units/images/berserk.png</file>
+        <file alias="unit_catapult">res/units/images/catapult.png</file>
+        <file alias="unit_fairy">res/units/images/fairy.png</file>
+        <file alias="unit_knight">res/units/images/knight.png</file>
+        <file alias="unit_werewolf">res/units/images/werewolf.png</file>
+        <file alias="unit_witch">res/units/images/witch.png</file>
+    </qresource>
+    <qresource prefix="/units/json">
+        <file alias="units.json">res/units/json/units.json</file>
+    </qresource>
+    <qresource prefix="/character/sith/Walk">
+        <file alias="walk_000">res/characters/sith/Walk/walk_000.png</file>
+        <file alias="walk_100">res/characters/sith/Walk/walk_100.png</file>
+        <file alias="walk_200">res/characters/sith/Walk/walk_200.png</file>
+        <file alias="walk_300">res/characters/sith/Walk/walk_300.png</file>
+        <file alias="walk_400">res/characters/sith/Walk/walk_400.png</file>
+        <file alias="walk_500">res/characters/sith/Walk/walk_500.png</file>
+    </qresource>
+</RCC>
