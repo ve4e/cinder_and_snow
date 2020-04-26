@@ -37,7 +37,6 @@ void GM::setMap(const EMap& map)
 
     for(uint i = 0; i < width; ++i){
         for(uint j = 0; j < height; ++j){
-            //passabilityMtrx[i][j] = map.surfaceMtrx()[i][j]->passability();
             passabilityMtrx[i][j] = map.hexMtrx()[i][j]->passsability();
         }
     }
@@ -79,14 +78,6 @@ void GM::setMap(const EMap& map)
 
 bool GM::isFreeCell(const std::pair<int, int> &hex) const
 {
-//    for(const auto &user: map_.users()){
-//        for(const auto &hero: user->heroes()){
-//            if(QPoint(hero->position()->first, hero->position()->second) == hex){
-//                return false;
-//            }
-//        }
-//    }
-//    return true;
     return region_[hex.first][hex.second].isFree();
 }
 
@@ -123,6 +114,11 @@ bool GM::moveHero(pair<int, int> hexFrom, pair<int, int> hexTo)
         region_[hexFrom.first][hexFrom.second].hero()->setPosition(hexTo);
         //region_[hex.first][hex.second].setHero(hero);
         region_[hexFrom.first][hexFrom.second].moveHero(region_[hexTo.first][hexTo.second]);
+
+        return true;
+    }
+    else{
+        return false;
     }
 }
 

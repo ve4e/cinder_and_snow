@@ -39,23 +39,7 @@ void UnitPanel::setDefaultCharacter(shared_ptr<const Character> defaultCharacter
         }
     }
 
-
-//    dataList.append(new Unit());
-//    dataList.append(new Unit());
-
     ui->quickWidget->engine()->rootContext()->setContextProperty("unitModel", QVariant::fromValue(dataList));
-//    ui->quickWidget->setSource(QUrl("qrc:/QML/UnitsPanel.qml"));
-
-//    ui->quickWidget->rootObject()->setProperty("unitModel", QVariant::fromValue(dataList));
-
-
-
-
-
-//    QQmlContext *ctxt = ui->quickWidget->rootContext();
-//    ctxt->setContextProperty("unitModel", QVariant::fromValue(dataList));
-
-
 }
 
 

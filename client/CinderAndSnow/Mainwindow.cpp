@@ -9,7 +9,7 @@
 #include <QDebug>
 //#include <QMediaPlayer>
 
-const QString FNAME_START_MUSIC = "/home/ve4e/develop/cinder_and_snow/client/mp3/start_music.mp3";
+//const QString FNAME_START_MUSIC = "";
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),

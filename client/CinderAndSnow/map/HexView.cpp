@@ -11,7 +11,7 @@
 const auto CELL_WIDTH = 32;
 const auto CELL_HEIGHT = 48;
 
-const QString AREA_HEX_FNAME = "/home/ve4e/develop/cinder_and_snow/client/assets/plain/areahex.png";
+const QString AREA_HEX_FNAME = "../assets/plain/areahex.png";
 
 const QMap<Surface, QPoint> IMAGE_CELL_OFFSET = {
     {Surface::Grassland,           QPoint(0*CELL_WIDTH, 0*CELL_HEIGHT)},

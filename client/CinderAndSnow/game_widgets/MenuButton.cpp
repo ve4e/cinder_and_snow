@@ -1,6 +1,6 @@
 #include "MenuButton.h"
 
-const QString FNAME_BUTTON_SOUND = "/home/ve4e/develop/cinder_and_snow/client/mp3/menu_button.mp3";
+const QString FNAME_BUTTON_SOUND = "../mp3/menu_button.mp3";
 
 MenuButton::MenuButton(QWidget *parent) :
     QPushButton(parent),
